@@ -20,9 +20,9 @@ npm run serve
 ```
 
 
-### Refer vanna.ai website and their offical manual to run the flask app in your local. 
-### kindly train your model. you can refer vanna-app folder in my repo for step by step guide. 
+#### Refer vanna.ai website and their offical manual to run the flask app in your local. 
+#### kindly train your model. you can refer vanna-app folder in my repo for step by step guide. 
 
 
-### Customize configuration
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
