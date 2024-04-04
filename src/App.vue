@@ -6,7 +6,9 @@
   <router-view/>
 </template>
 
-<style>
+<style lang="css">
+/* Import Tailwind CSS */
+@import "./styles/tailwind.css";
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
